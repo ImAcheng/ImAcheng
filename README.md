@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">I'm Lonely Acheng</h1>
+<p align="center">a.k.a. ImAcheng / ItzAcheng / 阿程</p>
+<p align="center">Competitor of National Skills - Software Application Development</p>
 
-<!--
-**ImAcheng/ImAcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+* Desktop Software Development
+* API Development
+* Database Design
 
-Here are some ideas to get you started:
+### Languages
+C++ / C# / Python / English (of course)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main Projects
+| Name | Description | Skills | Status |
+| :-: | - | - | :-: |
+| Home Drive | Self-hosted cloud storage solution | C# / Win Forms / ASP.NET API / Electron | Nearly Finished |
+| uChat | Self-hosted chatting system | C# / Win Forms / ASP.NET API | Developing |
+| iAssist | Browsing assistance | C# / Win Forms / LLM | Developing |
+
+###
+&copy; 2026 Lonely Acheng
