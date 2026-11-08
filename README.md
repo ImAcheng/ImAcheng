@@ -14,7 +14,7 @@ C++ / C# / Python
 | Name | Description | Skills | Status |
 | :-: | - | - | :-: |
 | Home Drive | Self-hosted cloud storage solution | C# / Win Forms / ASP.NET API / Electron | <a href="https://github.com/ImAcheng/HomeDrive">Released</a> |
-| uChat | Self-hosted chatting system | C# / Win Forms / ASP.NET API | Developing |
+| uChat | Self-hosted chatting system | C# / Win Forms / ASP.NET API | <a href="https://github.com/ImAcheng/uChat">Developing</a> |
 | Local Judge | Local Code Judger | C# / Win Forms / ASP.NET API | Planned (Original File Lost) |
 
 ###
